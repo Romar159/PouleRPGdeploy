@@ -26,7 +26,7 @@ module.exports.run = async (client, message, args) => {
 
     if(or_parie > player1.or || or_parie > player2.or) return message.reply("ERROR, un ou les deux membres n'ont pas assez d'or");
 
-    if(!args[2)) return message.reply("veuillez parier sur un côté de la pièce.");;
+    if(!args[2]) return message.reply("veuillez parier sur un côté de la pièce.");;
     if(args[2].toLowerCase() != "pile") {
         if(args[2].toLowerCase() != "face") {
             return message.reply("ERROR, cette face de la pièce n'existe pas.");
