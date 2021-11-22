@@ -1,0 +1,30 @@
+[
+    {
+        "id": 12,
+        "name": "Maréchal",
+        "description": "Le maréchal est celui qui gère les armées de la faction. C'est à lui que la pluspart des questions militaires remontent.",
+        "salaire": 7,
+        "horaires": 10
+    },
+    {
+        "id": 12,
+        "name": "Intendant ",
+        "description": "L'Intendant est chargé de gérer efficacement et avec soin la totale économie de la faction et assurer sa prospérité financière.",
+        "salaire": 7,
+        "horaires": 10
+    },
+    {
+        "id": 12,
+        "name": "Chapelain ",
+        "description": "Le Chapelain dirige et ordonne tous les aspects religieux de la faction. Et notamment les ordres religieux.",
+        "salaire": 7,
+        "horaires": 10
+    },
+    {
+        "id": 12,
+        "name": "Maître de faction ",
+        "description": "Il n'y a pas plus haut gradé et puissant dans une faction, c'est lui qui dirige la totalité de la faction, de son conseil et de ses membres.",
+        "salaire": 8,
+        "horaires": 10
+    }
+]
